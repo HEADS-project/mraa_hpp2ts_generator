@@ -17,6 +17,6 @@ Built using https://github.com/ricardojlrufino/cplus-libparser
 
 ![HEADS](http://heads-project.eu/sites/default/files/heads_large.png)
 
-Brought to you by [the HEADS project](http://heads-project.eu)
+Brought to you by [the HEADS project](http://heads-project.eu) under the  GNU LESSER GENERAL PUBLIC LICENSE v2.1
 
 
