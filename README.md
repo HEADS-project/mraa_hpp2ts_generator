@@ -8,10 +8,10 @@ Build
 ====
 
 Use maven to build, the generated jar include the necessary dependencies  
-'''bash
+```bash
 mvn package
 java -cp target/hpp2ts-0.0.1.jar eu.heads.project.ts.CPPHeaderScanner /home/barais/git/mraa/api/mraa/ mraa.d.ts #mraa_api_folder destfile.d.ts
-'''
+```
 built from https://github.com/ricardojlrufino/cplus-libparser
 
 
