@@ -1,7 +1,7 @@
 hpp2ts (hpp to ts. )
 ========
 
-This library has been designed to create mraa.d.ts automaticallya nd enable typescript support for MRAA project in waiting support of typescript in swig. 
+This library automatically creates TypeScript definitions for [MRAA](https://github.com/intel-iot-devkit/mraa) (`mraa.d.ts`) It has been designed as a solution to overcome the lack of support for [TypeSript](https://github.com/Microsoft/TypeScript) in [SWIG](https://github.com/swig/swig) (which should come at some point). 
 
 
 Build
