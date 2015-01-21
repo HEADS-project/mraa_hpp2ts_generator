@@ -12,6 +12,9 @@ Use maven to build, the generated jar include the necessary dependencies
 mvn package
 java -cp target/hpp2ts-0.0.1.jar eu.heads.project.ts.CPPHeaderScanner /home/barais/git/mraa/api/mraa/ mraa.d.ts #mraa_api_folder destfile.d.ts
 ```
-built from https://github.com/ricardojlrufino/cplus-libparser
+
+Built using https://github.com/ricardojlrufino/cplus-libparser
+
+![HEADS](http://heads-project.eu/sites/default/files/heads_large.png)
 
 
